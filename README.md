@@ -17,13 +17,31 @@ Geographical Location
 
 Monthly Trends
 
+
+
 ## 📌 Key Metrics
-Metric	Value	Change vs Previous Year
-Total Accidents	1,44,419	🔻 15.34%
-Total Casualties	1,95,737	🔻 15.23%
-Fatal Casualties	2,855	🔻 35.08%
-Serious Casualties	27,045	🔻 20.43%
-Slight Casualties	1,65,837	🔻 13.86%
+year : 2022
+| Metric                | Value      | Change vs Previous Year |
+|----------------------|------------|--------------------------|
+| Total Accidents      | 1,44,419   | 🔻 15.34%                |
+| Total Casualties     | 1,95,737   | 🔻 15.23%                |
+| Fatal Casualties     | 2,855      | 🔻 35.08%                |
+| Serious Casualties   | 27,045     | 🔻 20.43%                |
+| Slight Casualties    | 1,65,837   | 🔻 13.86%                |
+
+---
+
+## 🛣️ Fatalities by Road Type
+
+| Road Type           | Fatalities |
+|---------------------|------------|
+| Single Carriageway  | 2,113      |
+| Dual Carriageway    | 677        |
+| Roundabout          | 35         |
+| Slip Road           | 15         |
+| One Way Street      | 14         |
+| Null/Unknown        | 1          |
+
 ## 🚙 Fatal Casualties by Vehicle Type
 Agricultural Vehicles: 7 🔻 12.50%
 
