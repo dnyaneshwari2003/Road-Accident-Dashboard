@@ -49,13 +49,15 @@ Fine: Largest share of fatal casualties.
 Rain / Fog / Snow / Others: Smaller contributions, but still significant.
 
 ## 🛣️ Casualties by Road Surface
-Road Type	Fatalities
-Single Carriageway	2,113
-Dual Carriageway	677
-Roundabout	35
-Slip Road	15
-One Way Street	14
-Null/Unknown	1
+
+| Road Type           | Fatalities |
+|---------------------|------------|
+| Single Carriageway  | 2,113      |
+| Dual Carriageway    | 677        |
+| Roundabout          | 35         |
+| Slip Road           | 15         |
+| One Way Street      | 14         |
+| Null/Unknown        | 1          |
 ## 🗺️ Casualties by Location
 A geo-map displays the concentration of fatal road accidents across different regions in the UK. Heavier clustering is observed in metropolitan and southern areas.
 
