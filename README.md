@@ -99,10 +99,10 @@ Majority of accidents occur under fine weather and dry road conditions, suggesti
 Single carriageways are the most dangerous road type.
 
 ## 🛠️ Tools Used
-Tableau / Power BI 
+Tableau 
 
-Mapbox for Geo Mapping
 
+## Dataset
 Government road accident dataset (UK)
 
 
