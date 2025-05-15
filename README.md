@@ -1,5 +1,5 @@
 # Road-Accident-Dashboard 🚗
-A interactive dashboard made using tableau
+A interactive dashboard made using tableau.
 ![image](https://github.com/user-attachments/assets/f7e8341d-6fea-4413-ac76-2f34a2486941)
 
 
@@ -99,7 +99,7 @@ Majority of accidents occur under fine weather and dry road conditions, suggesti
 Single carriageways are the most dangerous road type.
 
 ## 🛠️ Tools Used
-Tableau / Power BI (assumed from visual design)
+Tableau / Power BI 
 
 Mapbox for Geo Mapping
 
