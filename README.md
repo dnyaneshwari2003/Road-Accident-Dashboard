@@ -20,7 +20,7 @@ Monthly Trends
 
 
 ## 📌 Key Metrics
-year : 2022
+Year : 2022
 | Metric                | Value      | Change vs Previous Year |
 |----------------------|------------|--------------------------|
 | Total Accidents      | 1,44,419   | 🔻 15.34%                |
